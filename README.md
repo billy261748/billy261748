@@ -4,12 +4,12 @@ import time
 def mostrar_mensaje():
     print("¡Te vigilo!")
     time.sleep(1)
-    print("¡Te vigilo mucho!")
+    print("¡Te vigilo por la camara, cuidado por la noche!")
     time.sleep(1)
-    print("¿Estás nervioso?")
+    print("cuidado por donde te metes")
     time.sleep(1)
-    print("¡Es solo una broma! 😄")
+    print("¡has sido hackeado con un troyano, codigo de verificacion 24372468275")
 
 # Llamada a la función
-mostrar_mensaje()
+hehehehehhehehe
 
