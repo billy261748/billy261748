@@ -1,15 +1,18 @@
 import time
+import sys
 
-# Mensaje que se mostrará
-def mostrar_mensaje():
-    print("¡Te vigilo!")
-    time.sleep(1)
-    print("¡Te vigilo por la camara, cuidado por la noche!")
-    time.sleep(1)
-    print("cuidado por donde te metes")
-    time.sleep(1)
-    print("¡has sido hackeado con un troyano, codigo de verificacion 24372468275")
+# Simula un mensaje de advertencia de hackeo
+def simulate_trojan_alert():
+    print("¡ALERTA! Tu sistema ha sido hackeado.")
+    time.sleep(2)
+    print("Se ha detectado un troyano en tu sistema.")
+    time.sleep(2)
+    print("Estamos tomando medidas para detener el ataque...")
+    time.sleep(3)
+    print("¡Tus archivos pueden estar en peligro!")
+    time.sleep(3)
+    print("Por favor, apaga tu computadora inmediatamente.")
+    time.sleep(2)
+  
 
-# Llamada a la función
-hehehehehhehehe
-
+_trojan_alert()
